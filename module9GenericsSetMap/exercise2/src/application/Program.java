@@ -22,7 +22,7 @@ public class Program {
 			}
 
 		}
-		System.out.println("Total students: " + students.size() + ".fF");
+		System.out.println("Total students: " + students.size() + ".");
 
 		sc.close();
 
